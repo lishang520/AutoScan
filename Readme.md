@@ -154,11 +154,11 @@ class ProcessMonitor():
 1、组合xray漏洞扫描器进行定点扫描
 2、组合oneforall进行子域名扫描
 3、组合masscan+nmap 端口扫描，将web服务进行保留
-
+ps:大家有什么好的大范围端口扫描工具或者漏洞扫描工具都可以告诉我，我可以帮忙组合进去
 ## 七、完整项目地址和鸣谢
 
 该扫描器下载地址：[lishang520/AutoScan: AutoScan:一款基于重点资产的自动识别+漏洞检测的工具 (github.com)](https://github.com/lishang520/AutoScan)
 
-感谢EHole3.0、nuclei等出色工具的帮助，
+感谢EHole3.0、nuclei等出色工具的帮助
 
 同时进程监控思路借鉴于：https://github.com/Echocipher/AUTO-EARN
